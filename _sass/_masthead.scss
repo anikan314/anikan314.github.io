@@ -16,7 +16,7 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    font-family: $calisto;
+    font-family: $sans-serif-narrow;
     background-color: $masthead-background;
 
     @include breakpoint($x-large) {

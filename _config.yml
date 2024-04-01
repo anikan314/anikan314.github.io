@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anika Nerella"
 title_separator          : "-"
 name                     : &name "Anika Nerella"
-description              : &description "Chris Severen's Academic Website"
+description              : &description "Anika Nerella's Academic Website"
 url                      : https://anikan314.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anikan314/anikan314.github.io"
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chris Severen"
-  avatar           : "ChrisSeveren_UCSB_082016.jpg"
-  bio              : "MD/PhD Candidate. <br> <br> The views expressed here are my own and do not necessarily represent the views of the Federal Reserve Bank of Philadelphia or the Federal Reserve System."
+  name             : "Anika Nerella"
+  avatar           : "nerella_headshot.jpg"
+  bio              : "MD/PhD Candidate <br> <br>"
   location         : "Philadelphia, PA, USA"
   employer         :
   googlescholar    : # "https://scholar.google.com/citations?user=lQ4Yvs4AAAAJ"
-  email            : "chris.severen@gmail.com"
+  email            : "anika.nerella@u.northwestern.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cseveren"
+  github           : # "cseveren"
   google_plus      :
   keybase          :
   instagram        :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ChrisSeveren"
+  twitter          : # "ChrisSeveren"
   vine             :
   weibo            :
   xing             :
