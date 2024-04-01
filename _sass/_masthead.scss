@@ -19,8 +19,8 @@
     font-family: $calisto;
     background-color: $lighter-gray;
 
-    @include breakpoint($x-large) {
-      max-width: $x-large;
+    @include breakpoint($small) {
+      max-width: $small;
     }
 
     nav {
