@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Anika Nerella"
   avatar           : "nerella_headshot.jpg"
-  bio              : "MD/PhD Candidate <br> <br>"
+  bio              : "MD/PhD Candidate (incoming)"
   location         : "Philadelphia, PA, USA"
   employer         :
   googlescholar    : # "https://scholar.google.com/citations?user=lQ4Yvs4AAAAJ"
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/anika-nerella-18699619a/
   orcid            :
   pinterest        :
   soundcloud       :
