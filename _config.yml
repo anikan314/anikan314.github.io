@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chris Severen, PhD"
+title                    : "Anika Nerella"
 title_separator          : "-"
-name                     : &name "Chris Severen"
+name                     : &name "Anika Nerella"
 description              : &description "Chris Severen's Academic Website"
-url                      : https://cseveren.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://anikan314.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cseveren/cseveren.github.io"
+repository               : "anikan314/anikan314.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Chris Severen"
   avatar           : "ChrisSeveren_UCSB_082016.jpg"
-  bio              : "Economic Advisor and Economist at the Federal Reserve Bank of Philadelphia. <br> <br> The views expressed here are my own and do not necessarily represent the views of the Federal Reserve Bank of Philadelphia or the Federal Reserve System."
+  bio              : "MD/PhD Candidate. <br> <br> The views expressed here are my own and do not necessarily represent the views of the Federal Reserve Bank of Philadelphia or the Federal Reserve System."
   location         : "Philadelphia, PA, USA"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=lQ4Yvs4AAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=lQ4Yvs4AAAAJ"
   email            : "chris.severen@gmail.com"
   uri              :
   bitbucket        :
