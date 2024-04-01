@@ -4,7 +4,7 @@
 
 .masthead {
   position: relative;
-  background-color: $lighter-gray;
+  background-color: $masthead-background;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -17,7 +17,7 @@
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $calisto;
-    background-color: $lighter-gray;
+    background-color: $masthead-background;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -29,7 +29,6 @@
 
     a {
       text-decoration: none;
-      background-color: $lighter-gray;
     }
   }
 }
@@ -39,7 +38,6 @@
   ul {
     margin: 0;
     padding: 0;
-    background-color: $lighter-gray;
     clear: both;
     list-style-type: none;
   }
@@ -49,11 +47,9 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  background-color: $lighter-gray;
 
   &--lg {
     padding-right: 2em;
-    background-color: $lighter-gray;
     font-weight: 700;
   }
 }
