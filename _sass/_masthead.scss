@@ -17,6 +17,7 @@
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $calisto;
+    background-color: $lighter-gray;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -37,6 +38,7 @@
   ul {
     margin: 0;
     padding: 0;
+    background-color: $lighter-gray;
     clear: both;
     list-style-type: none;
   }
