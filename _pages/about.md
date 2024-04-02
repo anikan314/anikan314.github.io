@@ -12,13 +12,11 @@ redirect_from:
 
 # Hello!
 
-I am an Economic Advisor and Economist in the Research Department of the [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/). My research spans urban, environmental, and development economics. I completed my PhD in 2017 at the University of California, Santa Barbara, where I was advised by faculty in both the [Department of Economics](https://econ.ucsb.edu/) and the [Bren School](https://www.bren.ucsb.edu/). While I was in Santa Barbara, I [raced](https://cseveren.github.io/files/18673170_10212419321132629_776692333297586652_o.jpg) [wa'a](https://en.wikipedia.org/wiki/Outrigger_boat).
+I am an incoming MD/PhD candidate in health economics. 
 
-Before graduate school, I worked for an energy efficiency consulting firm in Austin, TX. During my undergraduate studies at the University of Texas at Austin, where I majored in Latin American Studies ([LLILAS](https://liberalarts.utexas.edu/llilas/)) and Economics, I produced documentaries about social issues in Thailand and Paraguay. Once upon a time, I spent two years at UNT in Denton, TX, thinking I wanted to study music. Before that, I delivered pizza and gassed up boats.
+I studied economics at Northwestern before taking two years to work as a research assistant at the [Office of Economic and Manpower Analysis](https://oema.army.mil) at the (U.S. Military Academy at West Point)[https://www.westpoint.edu/] and U.S. Army. My research interests lie primarily within physician decision-making, the healthcare workforce, and healthcare organization, I'm always happy to chat about anything healthcare-related :)
 
-### New Developments
-* Jul '23 - R&R at AEJ: Policy for my paper with the inimitable [Valerie Bostwick](https://vkbostwick.weebly.com/) on [driving restrictions and teen school and work outcomes](https://cseveren.github.io/files/Driving_Dropouts_Draft_2305.pdf)
-
+I'm using this page to record my thoughts on MD/PhD training in real-time----feel free to reach out if you have any questions about the admissions or training process, and I'd love to connect!
 
 ### About this website:
 Powered by [Jekyll](http://jekyllrb.com). Theme by [AcademicPages](https://github.com/academicpages/academicpages.github.io), a fork of [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/). Hosted on [GitHub Pages](https://pages.github.com/).
