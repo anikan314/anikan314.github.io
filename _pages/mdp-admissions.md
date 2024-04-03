@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "MD/PhD Admissions"
-permalink: /miscellaneous/mdp-admissions
+permalink: /miscellaneous/mdp-admissions/
 author_profile: true
 ---
 
