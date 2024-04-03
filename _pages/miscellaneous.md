@@ -11,4 +11,4 @@ redirect_from:
 
 # Miscellaneous Page!
 
-<embed src="{{ site.baseurl }}/files/nerellaCV_040124.pdf" width="650" height="800" type='application/pdf'>
+Does this [link](anikan314.github.io/miscellaneous/mdp-admissions)?
