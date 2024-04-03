@@ -9,4 +9,4 @@ redirect_from:
 
 # Miscellaneous Page!
 
-Does this [link](/mdp-admissions/)?
+Does this [link](/miscellaneous/mdp-admissions/)?
