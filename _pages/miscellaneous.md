@@ -11,4 +11,4 @@ redirect_from:
 
 # Miscellaneous Page!
 
-Does this [link](anikan314.github.io/miscellaneous/mdp-admissions)?
+Does this [link](/mdp-admissions/)?
