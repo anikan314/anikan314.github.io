@@ -9,8 +9,8 @@ main:
  # - title: "Data & Code"
    # url: /datacode/
 
-  - title: "Teaching"
-    url: /teaching/
+ # - title: "Teaching"
+   # url: /teaching/
 
   - title: "Miscellaneous"
     url: /miscellaneous/
