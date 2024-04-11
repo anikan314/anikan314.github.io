@@ -20,7 +20,7 @@ Publications/Policy Reports
 
 ### Policy Reports
 
-"[Child Care in the Time of COVID: How Illinois Resourced Programs to Support (Re)opening](https://www.ipr.northwestern.edu/documents/reports/ipr-rapid-research-report-child-care-in-covid-sept-1-2021.pdf)" (with Terri Sabol, Tímea Viragh, and Olivia Healy). *Northwestern: IPR Rapid Research Report*, 09/2021. 
+"[Child Care in the Time of COVID: How Illinois Resourced Programs to Support (Re)opening](https://www.ipr.northwestern.edu/documents/reports/ipr-rapid-research-report-child-care-in-covid-sept-1-2021.pdf)" (with Terri Sabol, Tímea Virágh, and Olivia Healy). *Northwestern: IPR Rapid Research Report*, 09/2021. 
 
 
 
