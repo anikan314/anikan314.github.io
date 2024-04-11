@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Does this [link](/miscellaneous/mdp-admissions/)?
+My thoughts on the MD/PhD admissions process can be found [here](/miscellaneous/mdp-admissions/).
