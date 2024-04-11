@@ -399,7 +399,3 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
-
-.page {
-  width: calc(100% - #{$right-sidebar-width-narrow});
-}
