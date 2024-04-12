@@ -44,6 +44,8 @@ By far the worst part of the cycle. You’re constantly writing and editing and 
 
 Again, there’s a lot out there on writing secondaries, so I won’t say too much. Stay organized; I had a large spreadsheet with dates so that I didn’t turn anything in too late. Most of my secondaries were turned in within three weeks, unless there was a two-week deadline specified. I tried to be creative, but honest, with my responses and write from the heart throughout. Grammarly was a lifesaver as I wrote, and I’d highly recommend paying for it (and canceling your membership as soon as you’re done). I had my parents and a couple friends edit most of what I wrote in real-time to help with clarity of message and conciseness. When I was lost for ideas, I didn’t hesitate to reach out to friends who helped me brainstorm and flesh out my ideas. Secondaries was where it really “took a village” to help me reach the finish line, and having a support system was key.
 
+*Fun fact:* At the end of the cycle, I combined all of the secondary essays I wrote into one document. It ended up at a final length of 110 single-spaced pages.
+
 <h3 id="whyus">
 Writing the "Why X?" Essays
 </h3>
@@ -63,5 +65,7 @@ Keeping Sane
 Waiting is hard. No matter what anyone else tells you, it’s harder than you think it is. 
 
 I’ll reiterate what many others told me and what I found out for myself during the application cycle: hobbies and having a strong support system keep you sane. It’s impossibly difficult to not check Reddit or SDN, so in your free time, it’s imperative that you engage with everything non-application-related as fully as possible. I’m incredibly thankful for my family, friends, peers, and mentors for cheering me on and believing in me throughout this process, and for serving as a listening ear when all I wanted to do was complain about how long the past year had been.
+
+[(back to MD/PhD Admissions)](/miscellaneous/mdp-admissions){: .btn--research}
 
 

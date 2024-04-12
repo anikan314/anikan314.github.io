@@ -10,8 +10,6 @@ Here are what I conceptualized to be the differences between different training 
 
 Read [this](https://voices.uchicago.edu/mayalozinski/2021/06/02/advice-for-choosing-graduate-programs-in-medicine-and-the-social-sciences/){:target="_blank"} first.
 
-
-Testing buttons?
-[this](/miscellaneous/mdp-admissions){: .btn--research}
+[(back to MD/PhD Admissions)](/miscellaneous/mdp-admissions){: .btn--research}
 
 
