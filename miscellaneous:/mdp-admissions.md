@@ -14,27 +14,29 @@ I love economics, research, and clinical practice---enough as to not want to sac
 
 I applied to MD/PhDs during the 2023-2024 application cycle. When I began the application process, I spent a lot of time scouring the internet for resources on the application process and potential careers as a social science MD/PhD. The lack of information and resources on social science MD/PhDs was frustrating, especially in comparison to the abundance of information on applying to a basic science MD/PhD. My hope is that this site can serve as a resource to anyone interested in pursuing an MD/PhD in the social sciences. 
 
-I find [Maya Lozinski’s](https://voices.uchicago.edu/mayalozinski/home/blog/) posts on an MD/PhD in the social sciences to be quite thorough; I’ll do my best to add my thoughts to what she’s put out there.
+I find [Maya Lozinski’s](https://voices.uchicago.edu/mayalozinski/home/blog/){:target="_blank"} posts on an MD/PhD in the social sciences to be quite thorough; I’ll do my best to add my thoughts to what she’s put out there.
 
 ---
 **General Information:**
 - [Careers in Medicine & Social Sciences](/miscellaneous/mdp-admissions/careerpaths)
 
-*Application-Specific:*
+**Application-Specific:**
 - [Testing: MCAT, GRE](/miscellaneous/mdp-admissions/testing)
 - [Coursework](/miscellaneous/mdp-admissions/coursework)
 
-*Helpful Resources:*
-- [The Complete MD/PhD Applicant Guide](https://link.springer.com/book/10.1007/978-3-030-55625-9) (J. Sussman, J. Setayesh, A. Venapally)
+**Helpful Resources:**
+- [The Complete MD/PhD Applicant Guide](https://link.springer.com/book/10.1007/978-3-030-55625-9) (J. Sussman, J. Setayesh, A. Venapally){:target="_blank"}
 
 This guide was an absolute lifesaver when it came to demystifying the application/admissions process, finding high-quality writing samples, preparing for interviews, and selecting a program. Well-worth the $20 to purchase a copy, can't recommend a better resource to anyone applying MD/PhD.
 
-- AAMC's [List of MD/PhD Programs](https://students-residents.aamc.org/media/8131/download)
+- AAMC's [List of MD/PhD Programs](https://students-residents.aamc.org/media/8131/download){:target="_blank"}
 
 This was helpful then creating my school list, the PDF has links to program websites.
 
-- AAMC's [Search Function for MD/PhD-Affiliated Graduate Programs](https://students-residents.aamc.org/md-phd-dual-degree-training/md-phd-social-sciences-or-humanities-and-other-non-traditional-fields-graduate-study)
+- AAMC's [Search Function for MD/PhD-Affiliated Graduate Programs](https://students-residents.aamc.org/md-phd-dual-degree-training/md-phd-social-sciences-or-humanities-and-other-non-traditional-fields-graduate-study){:target="_blank"}
 
-- AAMC's [Table B-8](https://www.aamc.org/media/6141/download)
+Cool, somewhat helpful, but you need to verify the search results with program websites yourself.
+
+- AAMC's [Table B-8](https://www.aamc.org/media/6141/download){:target="_blank"}
 
 More program specific, but helped me get a sense of which programs were application-heavy and where I might have more of a shot.

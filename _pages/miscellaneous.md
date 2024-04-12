@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<h2 id="mdpadm">
+<h4 id="mdpadm">
 MD/PhD Admissions
-</h2>
+</h4>
 
 Click [here](/miscellaneous/mdp-admissions/) for my thoughts.

@@ -5,7 +5,7 @@ permalink: /miscellaneous/mdp-admissions/coursework/
 author_profile: true
 ---
 
-Read [this](https://voices.uchicago.edu/mayalozinski/2021/06/03/md-phd-in-health-economics-admissions-coursework/) first.
+Read [this](https://voices.uchicago.edu/mayalozinski/2021/06/03/md-phd-in-health-economics-admissions-coursework/){:target="_blank"} first.
 
 I largely concur with what Maya’s written. I wasn’t a biology major (majored in economics, minored in data science), but there were a few programs that asked specifically for at least one upper-level course in biology/chemistry/physics, so I made it a point to take a couple during my undergraduate study. I also had an upper-level science course professor write me a letter of recommendation; many programs ask for at least one letter from a professor in the “sciences” (which does not include social sciences). You can check for further program-specific requirements online.
 
