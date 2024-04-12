@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Careers Paths in Medicine $\times$ Social Sciences"
+title: "Careers in Medicine & Social Sciences"
 permalink: /miscellaneous/mdp-admissions/careerpaths/
 author_profile: true
 ---

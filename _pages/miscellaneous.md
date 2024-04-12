@@ -11,4 +11,4 @@ redirect_from:
 MD/PhD Admissions
 </h2>
 
-My thoughts on the MD/PhD admissions process can be found [here](/miscellaneous/mdp-admissions/).
+Click [here](/miscellaneous/mdp-admissions/) for my thoughts.
