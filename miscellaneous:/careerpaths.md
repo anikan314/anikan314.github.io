@@ -13,12 +13,43 @@ Read [this](https://voices.uchicago.edu/mayalozinski/2021/06/02/advice-for-choos
 
 Testing buttons?
 
-<a href=/miscellaneous/mdp-admissions target="_blank">
-    <button>Click Me!</button>
+<html>
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #04AA6D;
+}
+
+.button1:hover {
+  background-color: #04AA6D;
+  color: white;
+}
+
+
+</style>
+</head>
+<body>
+
+</body>
+
+<a href= anikan314.github.io/miscellaneous/mdp-admissions>
+    <button class="button button1">Click Me!</button>
 </a>
 
-<a href=/miscellaneous/mdp-admissions target="_blank">
-    <btn>Click Me!</btn>
-</a>
+
+</html>
 
 

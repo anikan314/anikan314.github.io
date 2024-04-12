@@ -4,6 +4,8 @@ title: "MD/PhD Admissions"
 permalink: /miscellaneous/mdp-admissions/
 author_profile: true
 ---
+This is a compilation of resources and reflections on applying MD/PhD in the social sciences. I dedicate this to my family, friends, mentors, and peers who supported me on this journey. I am incredibly grateful to have you all in my life.
+
 ### Why health economics?
 
 I love economics, research, and clinical practice---enough as to not want to sacrifice any of the three for the others. I wrote the following as part of an application essay and feel that it best represents my interest in pursuing a degree in health economics alongside medical training.
@@ -25,17 +27,17 @@ I find [Maya Lozinski’s](https://voices.uchicago.edu/mayalozinski/home/blog/){
 - [Coursework](/miscellaneous/mdp-admissions/coursework)
 
 **Helpful Resources:**
-- [The Complete MD/PhD Applicant Guide](https://link.springer.com/book/10.1007/978-3-030-55625-9) (J. Sussman, J. Setayesh, A. Venapally){:target="_blank"}
+- [The Complete MD/PhD Applicant Guide](https://link.springer.com/book/10.1007/978-3-030-55625-9){:target="_blank"} (J. Sussman, J. Setayesh, A. Venapally)
 
 This guide was an absolute lifesaver when it came to demystifying the application/admissions process, finding high-quality writing samples, preparing for interviews, and selecting a program. Well-worth the $20 to purchase a copy, can't recommend a better resource to anyone applying MD/PhD.
 
 - AAMC's [List of MD/PhD Programs](https://students-residents.aamc.org/media/8131/download){:target="_blank"}
 
-This was helpful then creating my school list, the PDF has links to program websites.
+This was helpful when creating my school list, the PDF has links to program websites.
 
 - AAMC's [Search Function for MD/PhD-Affiliated Graduate Programs](https://students-residents.aamc.org/md-phd-dual-degree-training/md-phd-social-sciences-or-humanities-and-other-non-traditional-fields-graduate-study){:target="_blank"}
 
-Cool, somewhat helpful, but you need to verify the search results with program websites yourself.
+Somewhat helpful, but you need to verify the search results with program websites yourself.
 
 - AAMC's [Table B-8](https://www.aamc.org/media/6141/download){:target="_blank"}
 
