@@ -25,6 +25,7 @@ I find [Maya Lozinski’s](https://voices.uchicago.edu/mayalozinski/home/blog/){
 **Application-Specific:**
 - [Testing: MCAT, GRE](/miscellaneous/mdp-admissions/testing)
 - [Coursework](/miscellaneous/mdp-admissions/coursework)
+- [Tips for the Application Cycle](/miscellaneous/mdp-admissions/apptips)
 
 **Helpful Resources:**
 - [The Complete MD/PhD Applicant Guide](https://link.springer.com/book/10.1007/978-3-030-55625-9){:target="_blank"} (J. Sussman, J. Setayesh, A. Venapally)
@@ -42,3 +43,7 @@ Somewhat helpful, but you need to verify the search results with program website
 - AAMC's [Table B-8](https://www.aamc.org/media/6141/download){:target="_blank"}
 
 More program specific, but helped me get a sense of which programs were application-heavy and where I might have more of a shot.
+
+- [dotMD's YouTube Channel](https://www.youtube.com/channel/UCfU5a9NBSyT8ttSL4ISKkLw){:target="_blank"}
+
+His overview of programs and criteria for selecting an institution were particularly helpful to me.
