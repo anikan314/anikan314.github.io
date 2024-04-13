@@ -16,7 +16,9 @@ I love economics, research, and clinical practice---enough as to not want to sac
 
 I applied to MD/PhDs during the 2023-2024 application cycle. When I began the application process, I spent a lot of time scouring the internet for resources on the application process and potential careers as a social science MD/PhD. The lack of information and resources on social science MD/PhDs was frustrating, especially in comparison to the abundance of information on applying to a basic science MD/PhD. My hope is that this site can serve as a resource to anyone interested in pursuing an MD/PhD in the social sciences. 
 
-I find [Maya Lozinski’s](https://voices.uchicago.edu/mayalozinski/home/blog/){:target="_blank"} posts on an MD/PhD in the social sciences to be quite thorough; I’ll do my best to add my thoughts to what she’s put out there.
+I find [Maya Lozinski’s](https://voices.uchicago.edu/mayalozinski/home/blog/){:target="_blank"} posts on an MD/PhD in the social sciences to be quite thorough; I’ll do my best to add my thoughts to what she’s put out there. For non-social-science specific information about MD/PhD, see [Hanna Erickson’s(https://mdphdtobe.com/){:target="_blank"} site, another excellent resource when it came to demystifying the physician-scientist training pathway.
+
+Feel free to reach out if you'd like to chat, ask personal questions, or want to know more.
 
 ---
 **General Information:**
