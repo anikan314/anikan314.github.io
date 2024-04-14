@@ -7,6 +7,7 @@ author_profile: true
 Inspired by [this Planet Money episode](https://www.npr.org/2023/01/27/1152015250/economics-papers-nigeria-church-vietnam-china-sweden){:target="_blank"} from a few years ago, I'm keeping a list of my favorite economics papers over the years.
 
 These are arranged in alphabetical order by last name.
+
 ---
 
 Alexander, Diane. [“How Do Doctors Respond to Incentives? Unintended Consequences of Paying Doctors to Reduce Costs.”](https://www.journals.uchicago.edu/doi/10.1086/710334#:~:text=Doctors%20respond%20to%20the%20bonuses,costs%20or%20change%20procedure%20use.){:target="_blank"} *Journal of Political Economy*, 2020.

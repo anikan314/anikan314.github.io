@@ -19,4 +19,4 @@ Click [here](/miscellaneous/mdp-admissions/) for my thoughts.
 Papers I Love
 </h3>
 
-A[collection](/miscellaneous/favpapers/) of my favorite economics papers.
+A [collection](/miscellaneous/favpapers/) of my favorite economics papers.
