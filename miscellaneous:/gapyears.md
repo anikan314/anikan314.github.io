@@ -41,18 +41,18 @@ When I was searching for jobs, I was also offered positions in consulting. I ult
 Some places where you can find positions (specific to health policy/economics):
 
 **Labs/Institutes**:
-- [Harvard, T.H Chan](https://www.hsph.harvard.edu/)
+- [Harvard, T.H. Chan School of Public Health](https://www.hsph.harvard.edu/){:target="_blank"}
 - [Brigham and Women's](https://www.brighamandwomens.org/about-bwh/careers/research-careers)
-- [MGH](https://www.massgeneral.org/careers)
-- [UCLA Center for Health Policy Research](https://healthpolicy.ucla.edu/about/employment)
-- [UNC Gillings School of Global Public Health](https://sph.unc.edu/hb/hb-careers/)
-- [RAND](https://www.rand.org/jobs/job-categories/research-and-analysis-jobs.html)
+- [MGH](https://www.massgeneral.org/careers){:target="_blank"}
+- [UCLA Center for Health Policy Research](https://healthpolicy.ucla.edu/about/employment){:target="_blank"}
+- [UNC Gillings School of Global Public Health](https://sph.unc.edu/hb/hb-careers/){:target="_blank"}
+- [RAND](https://www.rand.org/jobs/job-categories/research-and-analysis-jobs.html){:target="_blank"}
 
 
 **Economics RAships**:
 - [PREDOC.org](https://predoc.org/){:target="_blank"}
-- [@econ_ra on Twitter](https://twitter.com/econ_ra?lang=en)
-- [NBER's RA Positions Listing](https://www.nber.org/career-resources/research-assistant-positions-not-nber)
+- [@econ_ra on Twitter](https://twitter.com/econ_ra?lang=en){:target="_blank"}
+- [NBER's RA Positions Listing](https://www.nber.org/career-resources/research-assistant-positions-not-nber){:target="_blank"}
 
 
 [(back to MD/PhD Admissions)](/miscellaneous/mdp-admissions){: .btn--research}
