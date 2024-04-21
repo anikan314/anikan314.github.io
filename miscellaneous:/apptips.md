@@ -113,11 +113,11 @@ I’ll reiterate what many others told me and what I found out for myself during
 
 [(back to MD/PhD Admissions)](/miscellaneous/mdp-admissions){: .btn--research}
 
-<a href=/miscellaneous/mdp-admissions class="btn--research">&laquo; (back to MD/PhD Admissions))</a>
+<a href="/miscellaneous/mdp-admissions" class="btn--research">&laquo; (back to MD/PhD Admissions)</a>
 
-<a href="anikan314.github.io/miscellaneous/mdp-admissions" class="btn--research">&laquo; (back to MD/PhD Admissions))</a>
+<a href="/miscellaneous/mdp-admissions" class="btn--research">&laquo; </a>
 
-
+<a onclick="javascript:history.back()" class="btn--research">&laquo; </a>
 
 
 
