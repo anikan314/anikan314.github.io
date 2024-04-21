@@ -113,11 +113,11 @@ I’ll reiterate what many others told me and what I found out for myself during
 
 [(back to MD/PhD Admissions)](/miscellaneous/mdp-admissions){: .btn--research}
 
-<a href="http://stackoverflow.com" class="btn">stack<b>overflow</b>.com</a>
+<a href=/miscellaneous/mdp-admissions class="btn--research">&laquo; (back to MD/PhD Admissions))</a>
 
-<a href="http://stackoverflow.com" class="btn--research">&laquo; Previous</a>
+<a href="anikan314.github.io/miscellaneous/mdp-admissions" class="btn--research">&laquo; (back to MD/PhD Admissions))</a>
 
-<a href="http://stackoverflow.com" class="btn research">&raquo; next!</a>
+
 
 
 
