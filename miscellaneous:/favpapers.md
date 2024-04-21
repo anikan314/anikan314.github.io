@@ -22,6 +22,8 @@ Dell, Melissa. [“The Persistent Effects of Peru's Mining Mita.”](https://sch
 
 Finkelstein, Amy and Petra Persson, Maria Polyakova, and Jesse Shapiro. [“A Taste of Their Own Medicine: Guideline Adherence and Access to Expertise.”](https://www.aeaweb.org/articles?id=10.1257/aeri.20210591){:target="_blank"} *American Economic Review: Insights*, 2022.
 
+Frakes, Michael and Jonathan Gruber, Timothy Justicz. ["Public and Private Options in Practice: The Military Health System"](https://www.aeaweb.org/articles?id=10.1257/pol.20210625){:target="_blank"} *American Economic Review: Insights*, 2023.
+
 Goldin, Claudia and Lawrence Katz. [“The Power of the Pill: Oral Contraceptives and Women’s Career and Marriage Decisions.”](https://www.journals.uchicago.edu/doi/10.1086/340778){:target="_blank"} *Journal of Political Economy*, 2002.
 
 Greenberg, Kyle and Matthew Gudgeon, Adam Isen, Corbin Miller, Richard Patterson. [“Army Service in the All-Volunteer Era.”](https://academic.oup.com/qje/article-abstract/137/4/2363/6615487?redirectedFrom=fulltext){:target="_blank"} *Quarterly Journal of Economics*, 2022.

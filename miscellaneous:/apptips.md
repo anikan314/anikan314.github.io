@@ -74,6 +74,15 @@ I kept track of school-specific facts (programs, investigators, resources) in a 
 Interviews
 </h3>
 
+Interviews were, by far, the most enjoyable part of the cycle, especially once you work through the initial nervousness that comes with talking about yourself for 30-45 minutes. There were three main kinds of interviews I had: 1. interviews with MD/PhD Steering Committee faculty, 2. interviews with PIs in my field, and 3. traditional “MD-style” interviews. 
+
+Interviews with the Steering Committee usually consisted of questions about why I was interested in MD/PhD, a summary of my main research experiences and what I had learned from them, how I envisioned my future career, and what I was doing during my gap years. Here was where it was most helpful to have a practiced “Why MD/PhD?” spiel—---I fully recommend practicing this one with friends and family beforehand. Going in, I was nervous to be grilled on my motivation toward MD/PhD. However, my experience was that the vast majority of MD/PhD interviewers just want to see the “real” you, the person that was behind all of your written application materials. I tried to take “Be yourself!” to heart as much as I could throughout my interviews and believe that doing so contributed greatly to my success.
+
+Interviews with PIs were the most enjoyable parts of interviewing for me. Pre-interview, I would do some research on the PIs I was scheduled to speak with (you’re usually informed in advance), read a couple of their abstracts, and draft some questions about their work I wanted to ask. Every interviewer will inevitably save some time at the end for questions from you, so my prewritten ones were used nearly every time. Occasionally, I would have interviews where I was not told the name of the interviewer in advance. In these circumstances, I resorted to a standard list of questions I had prepared about research, life in that institution’s city, mentoring, a career as a physician-scientist, etc.
+
+Traditional MD-style interviews included MMIs and questions about my motivation and intentions toward clinical practice. There’s a lot of information on how to best prepare for these interviews on the internet.
+Like any other repetitive exercise, there is a learning curve to interviewing. I remember how nervous I was before my first one—--I woke up early, practiced my responses, re-reviewed my primary and secondary essays, and paced around my room. However, I definitely relaxed more as the interview season went on. I learned to speak more naturally, go with the flow of my story, and share my genuine excitement for research and being a physician-scientist. I loved having conversations with faculty (both within the basic sciences and in health policy) from across the nation and sharing my story and experiences with them. I learned a lot from these conversations and will certainly remember them as I embark on my journey to become a physician-scientist.
+
 ---
 <h3 id="recletters">
 Letters of Recommendation
@@ -81,7 +90,7 @@ Letters of Recommendation
 
 None of my recommendation letter-writers were MDs or MD/PhDs, and most of them had not previously heard of MD/PhDs. Therefore, I took it upon myself to tell them a little bit about the MD/PhD pathways, career outcomes, my goals, and motivation toward an MD/PhD.
 
-I compiled a couple of slides on the following topics:
+I compiled a deck of slides on the following topics:
 - What is the MD/PhD training path like? What careers do MD/PhDs usually go on to pursue?
 - How did I get interested in doing an MD/PhD?
 - What are the qualities of doctors and scientists that I admire? What do I think makes a successful physician-scientist?
@@ -103,5 +112,16 @@ I’ll reiterate what many others told me and what I found out for myself during
 
 
 [(back to MD/PhD Admissions)](/miscellaneous/mdp-admissions){: .btn--research}
+
+<a href="http://stackoverflow.com" class="btn">stack<b>overflow</b>.com</a>
+
+<a href="http://stackoverflow.com" class="btn--research">&laquo; Previous</a>
+
+<a href="http://stackoverflow.com" class="btn research">&raquo; next!</a>
+
+
+
+
+
 
 

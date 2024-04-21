@@ -32,7 +32,7 @@ Pursuing an MD/PhD takes the better part of a decade, and the application proces
 
 ### What should I do during my gap years?
 
-One word: research. (Caveat: if you are lacking in clinical experience, you should try to find a volunteering/shadowing opportunity to engage with during your gap years as well). 
+One word: research. (Caveat: if you are lacking in clinical experience, you should try to find a volunteering/shadowing opportunity to engage with during your gap years as well.) 
 
 For students interested in health policy, I recommend pursuing an opportunity as a research assistant (RA) within a health policy center, lab, or academic department. If you're more economics-inclined (like myself), one of the "classic" economics RA positions will work as well. Try to find a place where you'll be able to relate the work you do/skills you learn to future work within healthcare---this was what I did with non-healthcare related projects, which most of my work at OEMA has been.
 
@@ -41,7 +41,7 @@ When I was searching for jobs, I was also offered positions in consulting. I ult
 Some places where you can find positions (specific to health policy/economics):
 
 **Labs/Institutes**:
-- [Harvard, T.H. Chan School of Public Health](https://www.hsph.harvard.edu/){:target="_blank"}
+- [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/){:target="_blank"}
 - [Brigham and Women's](https://www.brighamandwomens.org/about-bwh/careers/research-careers)
 - [MGH](https://www.massgeneral.org/careers){:target="_blank"}
 - [UCLA Center for Health Policy Research](https://healthpolicy.ucla.edu/about/employment){:target="_blank"}
