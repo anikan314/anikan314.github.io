@@ -98,7 +98,7 @@ I compiled a deck of slides on the following topics:
 - What does the application process look like (timelines, deadlines, etc.)?
 - Examples of programs I was interested in, and the profiles of trainees & investigators (MD/PhD) whose careers I wanted to emulate.
 
-A couple of months before submitting my primary applications (February), I set up individual meetings with each of my letter-writers and presented my slides, taking the time to discuss exactly what I hoped their letter would convey about me and why I would make a successful physician-scientist. I shared my essays with all of my recommenders so that they could better understand my story and journey to an MD/PhD. Looking back, these conversations helped me ensure that my letters would emphasize my individuality, story, and vision for my career, which I believe led to subsequent success during the application process.
+A couple of months before submitting my primary applications, I set up individual meetings with each of my letter-writers and presented my slides, taking the time to discuss exactly what I hoped their letter would convey about me and why I would make a successful physician-scientist. I shared my essays with all of my recommenders so that they could better understand my story and journey to an MD/PhD. Looking back, these conversations helped me ensure that my letters would emphasize my individuality, story, and vision for my career, which I believe led to subsequent success during the application process.
 
 ---
 
@@ -110,7 +110,9 @@ Waiting is excruciatingly difficult. No matter what anyone else tells you, it’
 
 I’ll reiterate what many others told me and what I found out for myself during the application cycle: hobbies and having a strong support system keep you sane. It’s impossibly difficult to not check Reddit or SDN, so in your free time, it’s imperative that you engage with everything non-application-related as fully as possible. I’m incredibly thankful for my family, friends, peers, and mentors for cheering me on and believing in me throughout this process, and for serving as a listening ear when all I wanted to do was complain about how long the past year had been.
 
-<a href="/miscellaneous/mdp-admissions" class="btn--research">&laquo; <br> to MD/PhD Admissions </a>
+<a href="/miscellaneous/mdp-admissions" class="btn--research">&laquo; <br> (to MD/PhD Admissions) </a>
+
+<a href="/miscellaneous/mdp-admissions" class="btn--research"> <br> &laquo; <br> </a>
 
 
 
