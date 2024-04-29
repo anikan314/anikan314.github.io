@@ -6,6 +6,8 @@ author_profile: true
 ---
 This is a compilation of resources and reflections on applying MD/PhD in the social sciences. I dedicate this to my family, friends, mentors, and peers who supported me on this journey. I am incredibly grateful to have you all in my life.
 
+---
+
 ### Why health economics?
 
 I love economics, research, and clinical practice---enough as to not want to sacrifice any of the three for the others. I wrote the following as part of an application essay and feel that it best represents my interest in pursuing a degree in health economics alongside medical training.

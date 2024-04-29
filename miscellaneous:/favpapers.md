@@ -10,6 +10,10 @@ These are arranged in alphabetical order by last name.
 
 ---
 
+Abrevaya, Jason. [“Are There Missing Girls in the United States? Evidence from Birth Data.”](https://www.aeaweb.org/articles?id=10.1257/app.1.2.1){:target="_blank"} *American Economic Journal: Applied Economics*, 2009.
+
+Acemoglu, Daron, and David Autor, David Lyle. [“Women, War, and Wages: The Effect of Female Labor Supply on the Wage Structure at Midcentury.”](https://www.journals.uchicago.edu/doi/abs/10.1086/383100){:target="_blank"} *Journal of Political Economy*, 2004.
+
 Alexander, Diane. [“How Do Doctors Respond to Incentives? Unintended Consequences of Paying Doctors to Reduce Costs.”](https://www.journals.uchicago.edu/doi/10.1086/710334#:~:text=Doctors%20respond%20to%20the%20bonuses,costs%20or%20change%20procedure%20use.){:target="_blank"} *Journal of Political Economy*, 2020.
 
 Alsan, Marcella and Marianne Wanamaker. [“Tuskegee and the Health of Black Men.”](https://pubmed.ncbi.nlm.nih.gov/30505005/){:target="_blank"} *Quarterly Journal of Economics*, 2017.
@@ -20,9 +24,11 @@ Chan, David. [“Teamwork and Moral Hazard: Evidence from the Emergency Departme
 
 Dell, Melissa. [“The Persistent Effects of Peru's Mining Mita.”](https://scholar.harvard.edu/files/dell/files/ecta8121_0.pdf){:target="_blank"} *Econometrica*, 2010.
 
+Derenoncourt, Ellora and Chi Hyun Kim, Moritz Kuhn, and Moritz Schularick. [“Wealth of Two Nations: The U.S. Racial Wealth Gap, 1860-2020.”](https://academic.oup.com/qje/article/139/2/693/7276493?login=false){:target="_blank"} *Quarterly Journal of Economics*, 2024.
+
 Finkelstein, Amy and Petra Persson, Maria Polyakova, and Jesse Shapiro. [“A Taste of Their Own Medicine: Guideline Adherence and Access to Expertise.”](https://www.aeaweb.org/articles?id=10.1257/aeri.20210591){:target="_blank"} *American Economic Review: Insights*, 2022.
 
-Frakes, Michael and Jonathan Gruber, Timothy Justicz. ["Public and Private Options in Practice: The Military Health System"](https://www.aeaweb.org/articles?id=10.1257/pol.20210625){:target="_blank"} *American Economic Review: Insights*, 2023.
+Frakes, Michael and Jonathan Gruber, Timothy Justicz. ["Public and Private Options in Practice: The Military Health System."](https://www.aeaweb.org/articles?id=10.1257/pol.20210625){:target="_blank"} *American Economic Review: Insights*, 2023.
 
 Goldin, Claudia and Lawrence Katz. [“The Power of the Pill: Oral Contraceptives and Women’s Career and Marriage Decisions.”](https://www.journals.uchicago.edu/doi/10.1086/340778){:target="_blank"} *Journal of Political Economy*, 2002.
 
