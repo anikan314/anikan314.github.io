@@ -2,13 +2,19 @@
 layout: single
 title: "Miscellaneous"
 permalink: /miscellaneous/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
 
-<h3 id="mdpadm" href="/miscellaneous/mdp-admissions">
+<h3><a href="/miscellaneous/mdp-admissions">
 MD/PhD Admissions
+</a></h3>
+
+**[MD/PhD Admissions](/miscellaneous/mdp-admissions)**
+
+<h3>
+[MD/PhD Admissions](/miscellaneous/mdp-admissions)
 </h3>
 
 A compendium of thoughts, reflections, and resources for the MD/PhD application process.
