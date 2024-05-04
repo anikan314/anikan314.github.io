@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 
-<h3 id="mdpadm">
+<h3 id="mdpadm" href="/miscellaneous/mdp-admissions">
 MD/PhD Admissions
 </h3>
 
-Click [here](/miscellaneous/mdp-admissions/) for my thoughts.
+A compendium of thoughts, reflections, and resources for the MD/PhD application process.
 
 ---
 

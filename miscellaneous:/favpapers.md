@@ -34,7 +34,7 @@ Goldin, Claudia and Lawrence Katz. [“The Power of the Pill: Oral Contraceptive
 
 Greenberg, Kyle and Matthew Gudgeon, Adam Isen, Corbin Miller, Richard Patterson. [“Army Service in the All-Volunteer Era.”](https://academic.oup.com/qje/article-abstract/137/4/2363/6615487?redirectedFrom=fulltext){:target="_blank"} *Quarterly Journal of Economics*, 2022.
 
-Schwab, Stephen and Manasvini Singh. [“How Power Shapes Behavior: Evidence from Physicians.”](https://www.dropbox.com/scl/fi/j5s9jlwngqrue0ilafy0z/Power-MS-SS.pdf?rlkey=jqu23etvm4lsfix7v98rkma9o&dl=0){:target="_blank"} *Science (forthcoming)*.
+Schwab, Stephen and Manasvini Singh. [“How Power Shapes Behavior: Evidence from Physicians.”](https://www.dropbox.com/scl/fi/j5s9jlwngqrue0ilafy0z/Power-MS-SS.pdf?rlkey=jqu23etvm4lsfix7v98rkma9o&dl=0){:target="_blank"} *Science, 2024*.
 
 Qian, Nancy. [“Missing Women and the Price of Tea in China: The Effect of Sex-Specific Earnings on Sex Imbalance.”](https://www.jstor.org/stable/25098928){:target="_blank"} *Quarterly Journal of Economics*, 2008.
 

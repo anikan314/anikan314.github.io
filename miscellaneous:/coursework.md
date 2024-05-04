@@ -14,5 +14,3 @@ Some schools have strict requirements on pre-medical coursework whereas others a
 I do not think graduate-level coursework in economics/econometrics is required of MD/PhD applicants. I certainly did not take any of these courses. I took math classes up to (and including) Real Analysis in college, such as Multivariate Calculus, Linear Algebra, Differential Equations, and Econometrics.
 
 I am also an advocate for taking a programming course (or courses, if you end up liking it as much as I did!) as an undergraduate. Any form of quantitative work within health economics/policy or health services research will require programming at some point of time. 
-
-[(back to MD/PhD Admissions)](/miscellaneous/mdp-admissions){: .btn--research}

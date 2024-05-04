@@ -55,6 +55,4 @@ Some places where you can find positions (specific to health policy/economics):
 - [NBER's RA Positions Listing](https://www.nber.org/career-resources/research-assistant-positions-not-nber){:target="_blank"}
 
 
-[(back to MD/PhD Admissions)](/miscellaneous/mdp-admissions){: .btn--research}
-
 

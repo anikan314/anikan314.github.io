@@ -110,9 +110,8 @@ Waiting is excruciatingly difficult. No matter what anyone else tells you, it’
 
 I’ll reiterate what many others told me and what I found out for myself during the application cycle: hobbies and having a strong support system keep you sane. It’s impossibly difficult to not check Reddit or SDN, so in your free time, it’s imperative that you engage with everything non-application-related as fully as possible. I’m incredibly thankful for my family, friends, peers, and mentors for cheering me on and believing in me throughout this process, and for serving as a listening ear when all I wanted to do was complain about how long the past year had been.
 
-<a href="/miscellaneous/mdp-admissions" class="btn--research">&laquo; <br> (to MD/PhD Admissions) </a>
+[//]: <> (<a href="/miscellaneous/mdp-admissions" class="btn--research">&laquo; <br> (to MD/PhD Admissions) </a>)
 
-<a href="/miscellaneous/mdp-admissions" class="btn--research"> <br> &laquo; <br> </a>
 
 
 
