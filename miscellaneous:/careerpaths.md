@@ -4,7 +4,11 @@ title: "Careers in Medicine & Social Sciences"
 permalink: /miscellaneous/mdp-admissions/careerpaths/
 author_profile: true
 ---
-When I was deciding whether to apply MD/PhD, MD-only, or forego applying to medical school entirely, I relied upon the experiences and advice of senior trainees and faculty to help guide me. I stumbled upon MD/PhD researchers in health economics whose careers I wanted to emulate through reading academic papers in my undergraduate courses in economics. I had been interested in both economics and medicine throughout college and pursued the two in parallel as an undergraduate. 
+When I was deciding whether to apply MD/PhD, MD-only, or forego applying to medical school entirely, I relied upon the experiences and advice of senior trainees and faculty to help guide me. Eventually, I discovered MD/PhD researchers in health economics whose careers I wanted to emulate through reading academic papers in my undergraduate courses in economics. I had been interested in both economics and medicine throughout college and pursued the two in parallel as an undergraduate. 
+
+My general suggestion is to reach out to as many people as you can on each of these training paths. You can browse faculty profiles on academic department websites, reach out to authors of papers you like, or get references from mentors, PIs, and friends. 
+
+People love sharing their stories with others! Ask them about their careers, how they got to where they are, and what skills they feel that they lack and what they might have done differently in their training. At some point, you’ll stumble upon someone who makes you think, “I want to be just like him/her/them!” and you’ll have your answer. 
 
 Here are what I conceptualized to be the differences between different training paths/careers. Again, this may differ based on who you talk to, and this is just my opinion. 
 
@@ -12,9 +16,7 @@ Read [this](https://voices.uchicago.edu/mayalozinski/2021/06/02/advice-for-choos
 
 ---
 
-[MD-Only](#mdonly) &nbsp; &nbsp; - &nbsp; &nbsp; [MD-MPH](#mdmph) &nbsp; &nbsp; - &nbsp; &nbsp; [MD-Master's](#mdmshp)
-
-[PhD-Only](#phdonly) &nbsp; &nbsp; - &nbsp; &nbsp; [MD-PhD](#mdphd)
+[MD-Only](#mdonly) &nbsp; &nbsp; - &nbsp; &nbsp; [MD-MPH](#mdmph) &nbsp; &nbsp; - &nbsp; &nbsp; [MD-Master's](#mdmshp) &nbsp; &nbsp; - &nbsp; &nbsp; [PhD-Only](#phdonly) &nbsp; &nbsp; - &nbsp; &nbsp; [MD-PhD](#mdphd)
 
 ---
 
@@ -58,17 +60,11 @@ I got a lot of insight into what PhD-student life was like while working as an u
 MD-PhD
 </h3>
 
-My interest in the MD/PhD training pathway began when I read an economics paper written by an MD/PhD (see here). At this point, I knew that I wanted to pursue a PhD in health policy/economics, and did not know that I could integrate the MD alongside my research training. After doing some more digging, I reached out to an MD/PhD in health policy. Talking to him about what his research and clinical practice looked like on a weekly basis and discussing his role in developing his own research agenda excited me. He attributed his success as a researcher to having completed a PhD, but also conveyed that he felt his clinical perspective greatly enriched his research. Furthermore, he loved seeing patients in the clinic, which he did once a week. 
+My interest in the MD/PhD training pathway began when I read an economics paper written by an MD/PhD. At this point, I knew that I wanted to pursue a PhD in health policy/economics, and did not know that I could integrate the MD alongside my research training. After doing some more digging, I reached out to an MD/PhD in health policy. Talking to him about what his research and clinical practice looked like on a weekly basis and discussing his role in developing his own research agenda excited me. He attributed his success as a researcher to having completed a PhD, but also conveyed that he felt his clinical perspective greatly enriched his research. Furthermore, he loved seeing patients in the clinic, which he did once a week. 
 
 Speaking with this physician-scientist was a validating experience for me. For the first time, I felt that I had found another person with a passion for health economics and clinical work that matched my own! 
 
 There’s a lot of flexibility that the MD/PhD confers, particularly in where you end up working post-residency. MD/PhDs in health policy/economics have gone on to pursue academic appointments, industry jobs, work for the government, and much more. Moreover, you often do not have to pay tuition as an MD/PhD student, further lowering the monetary barrier to pursuing both degrees. The combination of all of these factors—---depth of training, flexibility, free tuition, lifestyle and research-clinical practice balance—---was what sealed the deal on MD/PhD for me. I consulted with many friends, family members, and mentors when making this decision.
-
----
-
-My general suggestion is to reach out to as many people as you can on each of these training paths. You can browse faculty profiles on academic department websites, reach out to authors of papers you like, or get references from mentors, PIs, and friends. 
-
-People love sharing their stories with others! Ask them about their careers, how they got to where they are, and what skills they feel that they lack and what they might have done differently in their training. At some point, you’ll stumble upon someone who makes you think, “I want to be just like him/her/them!” and you’ll have your answer. 
 
 
 

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" src="https://anikan314.github.io/images/nerella_headshot.jpg" alt="Photo" style="width: 250px; height: 300px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
+<img align="right" src="https://anikan314.github.io/images/nerella_headshot.jpg" alt="Photo" style="width: 250px; height: 275px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
 # Hello!
 
@@ -18,7 +18,7 @@ I studied economics at [Northwestern](https://economics.northwestern.edu/){:targ
 
 I'm always happy to chat about anything healthcare-related :)
 
-I'm using this page to record my thoughts on MD/PhD training in real-time------feel free to reach out if you have any questions about the admissions or training process, and I'd love to connect!
+I'm using this page to record my thoughts on MD/PhD training in real-time------feel free to reach out if you have any questions about the admissions or training process!
 
 ### Contact Information:
 Email me at [anika.nerella@u.northwestern.edu](mailto:anika.nerella@u.northwestern.edu).
