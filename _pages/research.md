@@ -20,9 +20,9 @@ Publications/Policy Reports
 
 ### Policy Reports
 
-"[Child Care in the Time of COVID: How Illinois Resourced Programs to Support (Re)opening.](https://www.ipr.northwestern.edu/documents/reports/ipr-rapid-research-report-child-care-in-covid-sept-1-2021.pdf)" (with Terri Sabol, Tímea Virágh, and Olivia Healy). *Northwestern: IPR Rapid Research Report*, 09/2021. 
+"[Child Care in the Time of COVID: How Illinois Resourced Programs to Support (Re)opening.](https://www.ipr.northwestern.edu/documents/reports/ipr-rapid-research-report-child-care-in-covid-sept-1-2021.pdf){:target="_blank"}" (with Terri Sabol, Tímea Virágh, and Olivia Healy). *Northwestern: IPR Rapid Research Report*, 09/2021. 
 
-"[Utilizing a Mixed-Methods Analysis to Differentiate Models of Healthcare for PSH Residents.](https://mcusercontent.com/902a1a8f3ffee7d0c482467bb/files/e4efb851-13c0-fb7a-b99d-6e2dde0cdee5/Utilizing_a_Mixed_Methods_Analysis_to_Differentiate_Models_of_Healthcare_for_PSH_Residents_2022.pdf)" (with Claudia Baier, Audrey Thomas, Kathy Booton Wilson, Liz Brockland, Jen Feuer-Crystal, and Sara Birchler). *VNA Foundation*, 06/2023.
+"[Utilizing a Mixed-Methods Analysis to Differentiate Models of Healthcare for PSH Residents.](https://mcusercontent.com/902a1a8f3ffee7d0c482467bb/files/e4efb851-13c0-fb7a-b99d-6e2dde0cdee5/Utilizing_a_Mixed_Methods_Analysis_to_Differentiate_Models_of_Healthcare_for_PSH_Residents_2022.pdf){:target="_blank"}" (with Claudia Baier, Audrey Thomas, Kathy Booton Wilson, Liz Brockland, Jen Feuer-Crystal, and Sara Birchler). *VNA Foundation*, 06/2023.
 
 
 

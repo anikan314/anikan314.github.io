@@ -11,7 +11,7 @@ redirect_from:
 MD/PhD Admissions
 </a></h3>
 
-A compendium of thoughts, reflections, and resources for the MD/PhD application process.
+A compendium of thoughts, reflections, and resources on the MD/PhD application process.
 
 ---
 
