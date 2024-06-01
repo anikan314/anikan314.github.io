@@ -27,7 +27,7 @@ Next, I went through the faculty at each of the graduate departments affiliated 
 
 Lastly, I removed schools with school-specific requirements that I would not be able to meet. For example, Johns Hopkins requires two science letters of recommendation, which I did not have. Columbia requires public health trainees to have an MPH, which I also did not have. Dartmouth and BU are not fully-funded, so I removed those programs. Though you should not be too picky about location, remove any places you know you would not be happy living in—---for me, this was Boston, so I removed Harvard from my list.
 
-This left me with exactly 25 schools where I submitted primaries. You should expect to receive a secondary from every school; I feel that 25 secondaries was manageable enough to complete without going fully nuts by the end. Don’t underestimate the time it takes to complete secondaries—---each essay requires considerable thought, planning, care, and revision, and there’s only so much you can reuse from school to school.
+This left me with exactly 25 schools where I submitted primaries. You should expect to receive a secondary from every school; I feel that 25 secondaries was manageable enough to complete without going fully nuts by the end. Don’t underestimate the time it takes to complete secondaries. Each essay requires considerable thought, planning, care, and revision, and there’s only so much you can reuse from school to school.
 
 ---
 
@@ -41,7 +41,8 @@ My essay was about a paper that I read as it related to a clinical phenomenon I 
 
 I had a number of research experiences I wanted to discuss in my Significant Research Essay. Accordingly, I numbered my research experiences (#1 - #5) and discussed each separately. I made sure to emphasize my role in each project and how it bolstered my interest in pursuing an MD/PhD.
 
-Here were some examples of “Why MD/PhD?” statements that I found helpful. 
+Here were some examples of “Why MD/PhD?” statements and other tips for essay-writing that I found helpful. 
+- [Jake Khoussine](https://jakekhoussine.medium.com/){:target="_blank"}, MD/PhD. See the posts describing how to write each of the three MD/PhD essays------he does a fantastic job describing how to answer each prompt directly and write concisely. There are other posts with information about the rest of the application and on MD/PhD training, more generally.
 - [Hanna Erickson](https://mdphdtobe.com/2013/03/28/amcas-m-d-ph-d-personal-statement/){:target="_blank"}, MD/PhD
 - [Joshua Willms](https://honestsearchfortruth.blogspot.com/2014/05/mdphd-essay.html){:target="_blank"}, MD/PhD
 - [JHU Sample Essays](https://studentaffairs.jhu.edu/wp-content/uploads/sites/33/2015/12/Sample-HPCA-Essays.AY2017.pdf){:target="_blank"}
@@ -82,6 +83,10 @@ Interviews with PIs were the most enjoyable parts of interviewing for me. Pre-in
 
 Traditional MD-style interviews included MMIs and questions about my motivation and intentions toward clinical practice. There’s a lot of information on how to best prepare for these interviews on the internet.
 Like any other repetitive exercise, there is a learning curve to interviewing. I remember how nervous I was before my first one—--I woke up early, practiced my responses, re-reviewed my primary and secondary essays, and paced around my room. However, I definitely relaxed more as the interview season went on. I learned to speak more naturally, go with the flow of my story, and share my genuine excitement for research and being a physician-scientist. I loved having conversations with faculty (both within the basic sciences and in health policy) from across the nation and sharing my story and experiences with them. I learned a lot from these conversations and will certainly remember them as I embark on my journey to become a physician-scientist.
+
+From a logistics standpoint, interviews can be challenging as each one requires two days of uninterrupted time. If you're interviewing while working, I recommend having a conversation with your PI early on to discuss expectations for absences. I let my PI know when I would be out from work as early as possible (usually a couple weeks ahead of time, or as soon as I had the interview scheduled), and he was understanding about me being missing for two-day periods when I was interviewing. If you receive additional interview invitations after receiving acceptances you're happy with, kindly decline the interviews out of respect to other applicants. You'll be giving yourself a much-needed break, too.
+
+You can track interview dates throughout the application cycle using the [MD-PhD Interview and Revisit Calendar](https://forums.studentdoctor.net/threads/list-of-phd-programs-at-mstp-institutions.1258659/){:target="_blank"}.
 
 ---
 <h3 id="recletters">

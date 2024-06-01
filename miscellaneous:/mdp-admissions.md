@@ -18,7 +18,7 @@ I love economics, research, and clinical practice------enough as to not want to 
 
 I applied to MD/PhDs during the 2023-2024 application cycle. When I began the application process, I spent a lot of time scouring the internet for resources on the application process and potential careers as a social science MD/PhD. The lack of information and resources on social science MD/PhDs was frustrating, especially in comparison to the abundance of information on applying to a basic science MD/PhD. My hope is that this site can serve as a resource to anyone interested in pursuing an MD/PhD in the social sciences. 
 
-I find [Maya Lozinski’s](https://voices.uchicago.edu/mayalozinski/home/blog/){:target="_blank"} posts on an MD/PhD in the social sciences to be quite thorough; I’ll do my best to add my thoughts to what she’s put out there. For general information about MD/PhD, see [Hanna Erickson’s](https://mdphdtobe.com/){:target="_blank"} site, another excellent resource when it came to demystifying the physician-scientist training pathway.
+I find [Maya Lozinski’s](https://voices.uchicago.edu/mayalozinski/home/blog/){:target="_blank"} posts on an MD/PhD in the social sciences to be quite thorough; I’ll do my best to add my thoughts to what she’s put out there. For general information about MD/PhD, see [Hanna Erickson’s](https://mdphdtobe.com/){:target="_blank"} and [Jake Khoussine's](https://jakekhoussine.medium.com/){:target="_blank"} sites, both excellent resources when it came to demystifying the physician-scientist training pathway.
 
 Feel free to reach out if you'd like to chat or want to know more.
 
@@ -35,7 +35,7 @@ Feel free to reach out if you'd like to chat or want to know more.
 **Helpful Resources:**
 - [The Complete MD/PhD Applicant Guide](https://link.springer.com/book/10.1007/978-3-030-55625-9){:target="_blank"} (J. Sussman, J. Setayesh, A. Venapally)
 
-This guide was an absolute lifesaver when it came to demystifying the application/admissions process, finding high-quality writing samples, preparing for interviews, and selecting a program. Well-worth the $20 to purchase a copy, can't recommend a better resource to anyone applying MD/PhD.
+This guide was an absolute lifesaver when it came to demystifying the application/admissions process, finding high-quality writing samples, preparing for interviews, and selecting a program. I can't recommend a better resource to anyone applying MD/PhD.
 
 - AAMC's [List of MD/PhD Programs](https://students-residents.aamc.org/media/8131/download){:target="_blank"}
 
@@ -44,6 +44,10 @@ This was helpful when creating my school list, the PDF has links to program webs
 - AAMC's [Search Function for MD/PhD-Affiliated Graduate Programs](https://students-residents.aamc.org/md-phd-dual-degree-training/md-phd-social-sciences-or-humanities-and-other-non-traditional-fields-graduate-study){:target="_blank"}
 
 Somewhat helpful, but you need to verify the search results with program websites yourself.
+
+- [List of PhD Programs at MSTP Institutions](https://forums.studentdoctor.net/threads/list-of-phd-programs-at-mstp-institutions.1258659/){:target="_blank"}
+
+Similar to the previous resource, you need to verify these partnerships via program websites. But this is a great place to start.
 
 - AAMC's [Table B-8](https://www.aamc.org/media/6141/download){:target="_blank"}
 
