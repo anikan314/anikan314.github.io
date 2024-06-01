@@ -91,12 +91,12 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : mix($info-color2, $info-color, 50%);
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : #ufffff;
-$masthead-background        : #6c767f;
+$masthead-link-color        : #ffffff;
+$masthead-background        : #2b6d89;
 $masthead-link-color-hover  : mix(#fff, $masthead-background, 25%);
+$link-color                 : $masthead-background;
+$link-color-hover           : $masthead-background;
+$link-color-visited         : mix(#fff, $link-color, 25%);
 
 
 /*
