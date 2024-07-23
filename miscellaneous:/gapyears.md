@@ -34,7 +34,7 @@ Pursuing an MD/PhD takes the better part of a decade, and the application proces
 
 One word: research. (Caveat: if you are lacking in clinical experience, you should try to find a volunteering/shadowing opportunity to engage with during your gap years as well.) 
 
-For students interested in health policy, I recommend pursuing an opportunity as a research assistant (RA) within a health policy center, lab, or academic department. If you're more economics-inclined (like myself), one of the "classic" economics RA positions will work as well. Try to find a place where you'll be able to relate the work you do/skills you learn to future work within healthcare---this was what I did with non-healthcare related projects, which most of my work at OEMA has been.
+For students interested in health policy, I recommend pursuing an opportunity as a research assistant (RA) within a health policy center, lab, or academic department. If you're more economics-inclined (like myself), one of the "classic" economics RA positions will work as well. Try to find a place where you'll be able to relate the work you do/skills you learn to future work within healthcare------this was what I did with non-healthcare related projects, which most of my work at OEMA has been.
 
 When I was searching for jobs, I was also offered positions in consulting. I ultimately opted for an RAship at an academic institution over consulting because it would help me get a better sense of the day-to-day of academic research, which is my intended end goal. 
 
@@ -52,7 +52,7 @@ Some places where you can find positions (specific to health policy/economics):
 **Economics RAships**:
 - [PREDOC.org](https://predoc.org/){:target="_blank"}
 - [@econ_ra on Twitter](https://twitter.com/econ_ra?lang=en){:target="_blank"}
-- [NBER's RA Positions Listing](https://www.nber.org/career-resources/research-assistant-positions-not-nber){:target="_blank"}
+- NBER's RA Position Listings: [at NBER](https://www.nber.org/career-resources/research-assistant-positions-nber){:target="_blank"} and [not at NBER](https://www.nber.org/career-resources/research-assistant-positions-not-nber){:target="_blank"}
 
 
 

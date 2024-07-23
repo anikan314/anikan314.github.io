@@ -26,6 +26,8 @@ Dell, Melissa. [“The Persistent Effects of Peru's Mining Mita.”](https://sch
 
 Derenoncourt, Ellora and Chi Hyun Kim, Moritz Kuhn, and Moritz Schularick. [“Wealth of Two Nations: The U.S. Racial Wealth Gap, 1860-2020.”](https://academic.oup.com/qje/article/139/2/693/7276493?login=false){:target="_blank"} *Quarterly Journal of Economics*, 2024.
 
+Deshpande, Manasi, and Tal Gross, Yalun Su. ["Disability and Distress: The Effect of Disability Programs on Financial Outcomes."](https://www.aeaweb.org/articles?id=10.1257/app.20190709){:target="_blank"} *American Economics Journal: Applied Economics*, 2021.
+
 Finkelstein, Amy and Petra Persson, Maria Polyakova, and Jesse Shapiro. [“A Taste of Their Own Medicine: Guideline Adherence and Access to Expertise.”](https://www.aeaweb.org/articles?id=10.1257/aeri.20210591){:target="_blank"} *American Economic Review: Insights*, 2022.
 
 Frakes, Michael and Jonathan Gruber, Timothy Justicz. ["Public and Private Options in Practice: The Military Health System."](https://www.aeaweb.org/articles?id=10.1257/pol.20210625){:target="_blank"} *American Economic Review: Insights*, 2023.
@@ -40,5 +42,7 @@ Qian, Nancy. [“Missing Women and the Price of Tea in China: The Effect of Sex-
 
 Wasserman, Melanie. [“Hours Constraints, Occupational Choice, and Gender: Evidence from Medical Residents.”](https://static1.squarespace.com/static/57bdef2ecd0f687f9fbfec30/t/62bba4dc7a8f95070da55205/1656464606706/residents.pdf){:target="_blank"} *Review of Economic Studies*, 2023.
 
+---
 
+Baicker, Katherine. ["Economic Analysis for Evidence-Based Health Policy: Progress and Pitfalls."](https://www.youtube.com/watch?v=-MubZ49cs_Y). NBER Summer Institute, *Feldstein Lecture*, 2019. 
 
