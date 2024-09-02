@@ -12,7 +12,7 @@ redirect_from:
 
 # Hello!
 
-I am an incoming MD/PhD candidate in health economics at the University of Pennsylvania's [Perelman School of Medicine](https://www.med.upenn.edu/){:target="_blank"} & [Department of Healthcare Management at Wharton](https://hcmg.wharton.upenn.edu/){:target="_blank"}. 
+I am an MD/PhD candidate in health economics at the University of Pennsylvania's [Perelman School of Medicine](https://www.med.upenn.edu/){:target="_blank"} & [Department of Healthcare Management at Wharton](https://hcmg.wharton.upenn.edu/){:target="_blank"}. 
 
 I studied economics at [Northwestern](https://economics.northwestern.edu/){:target="_blank"} and worked as a research assistant at the [Office of Economic and Manpower Analysis](https://oema.army.mil){:target="_blank"} at the [U.S. Military Academy at West Point](https://www.westpoint.edu/){:target="_blank"}. My research interests lie primarily within physician and patient decision-making, the healthcare workforce, and healthcare organization. 
 

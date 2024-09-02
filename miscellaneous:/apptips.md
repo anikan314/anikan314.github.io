@@ -47,6 +47,8 @@ Here were some examples of “Why MD/PhD?” statements and other tips for essay
 - [Joshua Willms](https://honestsearchfortruth.blogspot.com/2014/05/mdphd-essay.html){:target="_blank"}, MD/PhD
 - [JHU Sample Essays](https://studentaffairs.jhu.edu/wp-content/uploads/sites/33/2015/12/Sample-HPCA-Essays.AY2017.pdf){:target="_blank"}
 
+Essays are available upon request.
+
 ---
 
 <h3 id="secondaries">

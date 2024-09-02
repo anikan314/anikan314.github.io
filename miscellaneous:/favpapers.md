@@ -44,5 +44,24 @@ Wasserman, Melanie. [“Hours Constraints, Occupational Choice, and Gender: Evid
 
 ---
 
-Baicker, Katherine. ["Economic Analysis for Evidence-Based Health Policy: Progress and Pitfalls."](https://www.youtube.com/watch?v=-MubZ49cs_Y). NBER Summer Institute, *Feldstein Lecture*, 2019. 
+### Other Media
+
+**Talks:**
+
+Baicker, Katherine. ["Economic Analysis for Evidence-Based Health Policy: Progress and Pitfalls."](https://www.youtube.com/watch?v=-MubZ49cs_Y){:target="_blank"} NBER Summer Institute, *Feldstein Lecture*, 2019.
+
+**Podcasts:**
+
+[Tradeoffs](https://open.spotify.com/show/7kOpJgExMmsQRYxmpTOgUY?si=a49c1bd6a590434b){:target="_blank"}.
+
+Tradeoffs is an award-winning nonprofit news organization on a mission to help the folks on Main Street, Wall Street and Capitol Hill have smarter, more honest conversations about health policy. Founded in 2019 by former Senior Health Care Reporter at Marketplace, Dan Gorenstein, Tradeoffs’ journalism combines data, evidence and storytelling to help people better understand the complicated, costly and often counterintuitive world of health care.
+
+[The Mixtape with Scott](https://open.spotify.com/show/2wDlnDFyWoHtflRVrnsO7i?si=a42b8739b6cd4fc1){:target="_blank"}.
+
+The Mixtape with Scott is a podcast in which economist and professor, Scott Cunningham, interviews economists, scientists and authors about their lives and careers, as well as the some of their work. He tries to travel back in time with his guests to listen and hear their stories before then talking with them about topics they care about now.
+
+
+
+
+ 
 
