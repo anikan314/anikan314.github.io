@@ -9,6 +9,7 @@ Inspired by [this Planet Money episode](https://www.npr.org/2023/01/27/115201525
 These are arranged in alphabetical order by last name.
 
 ---
+### Academic Papers
 
 Abrevaya, Jason. [“Are There Missing Girls in the United States? Evidence from Birth Data.”](https://www.aeaweb.org/articles?id=10.1257/app.1.2.1){:target="_blank"} *American Economic Journal: Applied Economics*, 2009.
 
@@ -52,11 +53,11 @@ Baicker, Katherine. ["Economic Analysis for Evidence-Based Health Policy: Progre
 
 **Podcasts:**
 
-[Tradeoffs](https://open.spotify.com/show/7kOpJgExMmsQRYxmpTOgUY?si=a49c1bd6a590434b){:target="_blank"}.
+[Tradeoffs](https://open.spotify.com/show/7kOpJgExMmsQRYxmpTOgUY?si=a49c1bd6a590434b){:target="_blank"}
 
 Tradeoffs is an award-winning nonprofit news organization on a mission to help the folks on Main Street, Wall Street and Capitol Hill have smarter, more honest conversations about health policy. Founded in 2019 by former Senior Health Care Reporter at Marketplace, Dan Gorenstein, Tradeoffs’ journalism combines data, evidence and storytelling to help people better understand the complicated, costly and often counterintuitive world of health care.
 
-[The Mixtape with Scott](https://open.spotify.com/show/2wDlnDFyWoHtflRVrnsO7i?si=a42b8739b6cd4fc1){:target="_blank"}.
+[The Mixtape with Scott](https://open.spotify.com/show/2wDlnDFyWoHtflRVrnsO7i?si=a42b8739b6cd4fc1){:target="_blank"}
 
 The Mixtape with Scott is a podcast in which economist and professor, Scott Cunningham, interviews economists, scientists and authors about their lives and careers, as well as the some of their work. He tries to travel back in time with his guests to listen and hear their stories before then talking with them about topics they care about now.
 

@@ -10,6 +10,10 @@ author_profile: true
 Active Research
 </h2>
 
+"[The Effects of Gender Integration on Men: Evidence from the U.S. Military.](https://www.nber.org/papers/w33235){:target="_blank"}" (Kyle Greenberg, Melanie Wasserman, and Anna Weber). *NBER WP*, 12/2024.
+Media Coverage: [*The Dispatch*](https://thedispatch.com/article/what-we-know-about-women-in-combat/){:target="_blank"}
+
+I worked as a research assistant on this project while at the U.S. Military Academy at West Point. 
 
 <h2 id="pubs">
 Publications/Policy Reports
