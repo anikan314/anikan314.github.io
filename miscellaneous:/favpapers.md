@@ -51,6 +51,8 @@ Wasserman, Melanie. [“Hours Constraints, Occupational Choice, and Gender: Evid
 
 Baicker, Katherine. ["Economic Analysis for Evidence-Based Health Policy: Progress and Pitfalls."](https://www.youtube.com/watch?v=-MubZ49cs_Y){:target="_blank"} NBER Summer Institute, *Feldstein Lecture*, 2019.
 
+Chandra, Amitabh. ["Transformational Medicines Lessons from Social Science"]{https://www.youtube.com/watch?v=2QuV-acw3ww}{:target="_blank"} NBER Summer Institute, *ADRD Keynote*, 2025.
+
 **Podcasts:**
 
 [Tradeoffs](https://open.spotify.com/show/7kOpJgExMmsQRYxmpTOgUY?si=a49c1bd6a590434b){:target="_blank"}
